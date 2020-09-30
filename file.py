@@ -1,0 +1,2 @@
+THIS IS AN EXAMPLE PROGRAM FOR A PYTHON
+print("hello world")
